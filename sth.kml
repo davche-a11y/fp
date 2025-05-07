@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>Havsöring STHLM</name>
-    <description>By Tonyex</description>
+    <name>test</name>
+    <description>test</description>
     <Style id="icon-22-normal">
       <IconStyle>
         <scale>1.1</scale>
