@@ -1,0 +1,1172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Havsöring STHLM</name>
+    <description>By Tonyex</description>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-22-nodesc-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-22-nodesc-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-22-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Untitled layer</name>
+      <Placemark>
+        <name>Galö 2</name>
+        <description>Det går ut ett grundområde utanför den här viken där havsöringen gärna stryker omkring. Landfiske möjligt.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.231297,59.070169,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Muskö 4</name>
+        <description>Fiskerättsägaren lägger ofta ytnät, inte utan anledning.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.198938,59.013566,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skälåker</name>
+        <description>Känt grundområde framförallt i skymmningen. Bäst från land. Lämpligt för flugfiske.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.322105,59.098877,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Havstornsudd</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            18.3494,59.096761,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brevik</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            18.360214,59.455153,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Grinda</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            18.568268,59.408927,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Säbyviken</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            18.221684,59.435562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kapellskär</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            19.070249,59.718503,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ljusterö</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            18.619423,59.518648,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Svärdsön</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            18.315411,59.260441,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Riddarskäret</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            18.788939,60.148298,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sandviken, Väddö</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            18.87949,59.979668,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Torö stenstrand</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            17.81004,58.79925,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sandholmarnas, TYRESÖ</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            18.408966,59.202789,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Österskär</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            18.311634,59.455196,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Galö 3</name>
+        <description>Fiska nära stranden. Endast båtfiske.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.256187,59.081064,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Galö 8</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            18.258076,59.072684,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Galö 6</name>
+        <description>Känt grundområde framförallt i skymmningen. Bäst från land. Lämpligt för flugfiske</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.300476,59.075639,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Galö 7</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            18.290691,59.073434,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Galö 4</name>
+        <description>En liten vik med ett begränsat grundområde håller nästan alltid öring.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.271294,59.075242,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Oxnö huvud</name>
+        <description>Här syns ofta havsöring vaka och det tas många också.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.193016,59.064654,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Galö5</name>
+        <description>Vid skylten har vi haft bra fiske.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.310776,59.087414,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Muskö1</name>
+        <description>Viken håller ofta fisk. Tyvärr lägger tomtägaren ofta nät tvärsöver. Delvis sandbotten. Landfiske är möjligt. Dock måste några sjötomter rundas.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.22649,59.022977,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Muskö2</name>
+        <description>Stora Bryggan. Mycket bra vårställe. Har själv fiskat i stora stim med havsöring här. Blandat sten och sand. Landfiske är möjligt. Dock måste några sjötomter rundas.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.222284,59.019929,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Snappudden.</name>
+        <description>Ett av södra skärgårdens kändaste havsöringshak.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.231382,59.02576,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Björkvik</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            18.528271,59.215751,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Färjeläget, Östanå</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            18.576765,59.549415,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Flaxenvik</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            18.401241,59.468978,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Placemark 29</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            18.080106,59.32579,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Placemark 30</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            18.081522,59.323973,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Placemark 31</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            18.084869,59.323666,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Placemark 32</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            18.087101,59.323688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Placemark 33</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            18.087444,59.323053,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Placemark 34</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            18.092079,59.330628,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Placemark 35</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            18.097014,59.330344,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Placemark 36</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            18.111176,59.330191,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Placemark 37</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            18.127999,59.329994,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Placemark 38</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            18.149586,59.325112,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Placemark 39</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            18.155293,59.322966,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Placemark 40</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            18.141217,59.322134,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Placemark 41</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            18.112464,59.319572,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Placemark 42</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            18.119202,59.320141,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Placemark 43</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            18.076415,59.325681,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Placemark 44</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            18.072467,59.328264,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Placemark 45</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            18.070793,59.328483,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Placemark 46</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            18.068604,59.328374,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Placemark 47</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            18.058863,59.327673,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Placemark 48</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            18.061309,59.32625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Placemark 49</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            18.064399,59.326622,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Placemark 50</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            18.067982,59.326962,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Placemark 51</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            18.066502,59.32798,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Placemark 52</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            18.070085,59.32903,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Placemark 53</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            18.064163,59.328023,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Placemark 54</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            18.076115,59.323108,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Placemark 55</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            18.07487,59.321608,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Torpesand</name>
+        <description>by Hansson25</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.549728,59.221307,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Älgö</name>
+        <description>By Hansson25</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.343391,59.271889,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Edsviken</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            17.965221,59.433467,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skarpö</name>
+        <description>Finns flera heta platser längs utsidan skarpö. Det är en vägbom ca 5km från den utmärkta platsen.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.743105,59.347874,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ålkistan</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            18.049786,59.375977,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Klintsundet </name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            18.750615,59.538039,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Trutsundet</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            18.82679,59.542281,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name> 63 Åsvik</name>
+        <description>Mellan 63 och 66 finns ett antal bra platser</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.083839,58.975322,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>64 Bakom</name>
+        <description>Härifrån och till Bruket finns ett antal heta ställen</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.104067,58.98116,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>65</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            18.105812,58.975322,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name> 66 Bruket</name>
+        <description>Mellan 63 och 66 finns ett antal bra platser.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.11471,58.970101,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>67 Långnabbaudde</name>
+        <description>Litet ställe</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.126726,58.965411,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>68</name>
+        <description>Mellan 68 och 69 finns ett antal bra platser. Man är tvungen att gå över ett berg för att fiska sig mot 69</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.134966,58.97072,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>69</name>
+        <description>69 slut på sträckan</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.15608,58.974791,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>70 Fränsviken</name>
+        <description>Fin vik</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.008995,58.939647,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>71</name>
+        <description>Fint grundområde nedanför Hotellet. Fisket fortsätter söderut längs strandpromenaden. Flera heta platser finns</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.949586,58.890901,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>73</name>
+        <description>Har du kommit hit så har du passerat fler bra ställen, även här och lite mer söderut är det intressant</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.930961,58.869875,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>74 Sågsten,Torö Varv</name>
+        <description>Söderut finns en fin sträcka</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.872267,58.834003,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>75</name>
+        <description>Fin vik. Skogspromenad för att komma dit</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.864542,58.810364,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>76 Trävik</name>
+        <description><![CDATA[Liten holme med båtbrygga. Superfin "leopardbotten" runt holmen]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.857246,58.809741,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>77 Soviken</name>
+        <description>Fin vik 1,5 km promenad på grusväg och genom skog.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.846675,58.798316,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>78</name>
+        <description>Litet ställe , men hett. Man kommer dit genom att gå mellan två tomter som är avskiljda med staket.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.791665,58.801851,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>79</name>
+        <description>Vadare rekommenderas</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.80416,58.808986,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>80</name>
+        <description>Badplats, litet ställe men ibland hett.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.812092,58.808186,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>81 Revudden</name>
+        <description>Fin udde 500 m promenad</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.761288,58.899503,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>82 Koholmen</name>
+        <description>Flera heta platser längs hela stranden på Koholmen</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            17.74385,58.966163,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fituna</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            17.746793,59.059186,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nakenbadet</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            18.362432,59.454046,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stensnäs</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            18.372036,59.453412,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lerviks udde</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            18.384443,59.452427,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Marsättra Holme</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            18.427025,59.478359,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skärgårdsstads Havsbad</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            18.436538,59.482488,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skeppsdal</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            18.449423,59.494155,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bammarboda</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            18.468748,59.505084,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dyvik</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            18.512476,59.528911,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mälbyön</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            18.553656,59.539176,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fotbollsplanen Östanå</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            18.592601,59.554483,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stavs ängar</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            18.620496,59.561397,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Blidö - Eknäs udde</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            18.951355,59.655558,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Blidö - Kråknäs Udde</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            18.958571,59.655994,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Blidö - Nordanö</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            18.960254,59.64978,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kapellskär Södra</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            19.050162,59.712457,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sennebyhaken</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            18.903715,59.972857,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fjällbostrand</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            18.824713,60.074046,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fjällboholmarna</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            18.832571,60.060513,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Höggarn,Killingen och sandemar</name>
+        <description>Här är det rätt mycket att fiska på. Både till vänster och höger om markören. Respektera fågelskyddet mellan Apr-Aug</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.353605,59.122671,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sjöängen</name>
+        <description>Litet ställe men ibland hett</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.107014,59.060948,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Koön</name>
+        <description>En bit att gå.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.32973,59.117825,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dalarö kanal</name>
+        <description>Kan vara bra på hösten.Mest lekande fisk men en och annan blank också. Testa kanalen och även på bryggorna till höger om markören på Dalarösidan. Räkmete inte helt fel</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.416162,59.138173,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kapellskär syd</name>
+        <description>Kör av mot Östernäs och kör till Strömma. Kolla enirokartan, kan vara lite krångligt att komma rätt. 500m promenad. Finns några sommarstugetomter att ta hänsyn till. Fiska er norrut</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            19.014931,59.705344,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Samnäsfjärden</name>
+        <description>Kan vara en del tomter men man kommer till både här och där. Vadare rekommenderas. En del öar kan man vada ut på. Kan vara gott om gädda på en del ställen</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.905897,59.934892,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Samnäsfjärden</name>
+        <description>Vadare rekommenderas. En del öar kan man vada ut på. Kan vara gott om gädda på en del ställen</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.90521,59.931194,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Samnäsfjärden</name>
+        <description>En promenad krävs</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.923578,59.932398,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skansundet1</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            17.695341,59.052562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skansundet2</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            17.692938,59.046824,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sandviken</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            17.700591,59.057153,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Salsudd</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            17.695527,59.041173,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bogesund/Fridhem</name>
+        <description>Utgå från badplatsen - bra sträckor både öster och västerut</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.290224,59.388,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Baggenstäket</name>
+        <description>Möjligt att fiska från båda sidor. Mest lättillgängligt dock från Saltsjöbadssidan. Parkera vid kyrkogården. Strömt vatten gör att denna plats i regel är isfri på vintern.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.280364,59.300542,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gålö utsida/parkeringen</name>
+        <description>Lätt tillgängligt från parkeringen vi d Båtklubben</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.228519,59.066323,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gålö - utsidan/campingen</name>
+        <description>Parkera vid Båtklubben och promenera tillbaka till campingen. Gå igenom campingområdet och följ stigen ner till vattnet på utsidan av Gålö. Vadningsbart.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            18.214653,59.063675,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
